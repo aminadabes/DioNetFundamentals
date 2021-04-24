@@ -1,0 +1,16 @@
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/AppBancaria
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/AppBancaria.deps.json
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/AppBancaria.runtimeconfig.json
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/AppBancaria.runtimeconfig.dev.json
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/AppBancaria.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/ref/AppBancaria.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/bin/Debug/net5.0/AppBancaria.pdb
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.csprojAssemblyReference.cache
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.AssemblyInfoInputs.cache
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.AssemblyInfo.cs
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.csproj.CoreCompileInputs.cache
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/ref/AppBancaria.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.pdb
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/DioNetFundamentals/AppBancaria/obj/Debug/net5.0/AppBancaria.genruntimeconfig.cache
