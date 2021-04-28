@@ -1,0 +1,16 @@
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/AppSerries
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/AppSerries.deps.json
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/AppSerries.runtimeconfig.json
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/AppSerries.runtimeconfig.dev.json
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/AppSerries.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/ref/AppSerries.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/bin/Debug/net5.0/AppSerries.pdb
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.csprojAssemblyReference.cache
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.AssemblyInfoInputs.cache
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.AssemblyInfo.cs
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.csproj.CoreCompileInputs.cache
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/ref/AppSerries.dll
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.pdb
+/home/juninho/Documentos/elaboratecnologia/Estudo-.Net/AppSerries/obj/Debug/net5.0/AppSerries.genruntimeconfig.cache
